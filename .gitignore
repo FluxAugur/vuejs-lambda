@@ -1,3 +1,5 @@
+# file: /.gitignore
+
 # package directories
 node_modules/
 
