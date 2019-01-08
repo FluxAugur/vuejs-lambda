@@ -1,0 +1,9 @@
+{
+    "Group": {
+        "Path": "/its/",
+        "GroupName": "Everyone",
+        "GroupId": "AGPAJFEYNQI3AQXKUA6QM",
+        "Arn": "arn:aws:iam::096188391785:group/its/Everyone",
+        "CreateDate": "2019-01-08T02:40:08Z"
+    }
+}
