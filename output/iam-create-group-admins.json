@@ -1,0 +1,9 @@
+{
+    "Group": {
+        "Path": "/its/",
+        "GroupName": "AdminsTest",
+        "GroupId": "AGPAJ3JNXXHK4OTWHWIHI",
+        "Arn": "arn:aws:iam::096188391785:group/its/AdminsTest",
+        "CreateDate": "2019-01-08T01:45:18Z"
+    }
+}
